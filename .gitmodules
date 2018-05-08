@@ -1,0 +1,108 @@
+[submodule "src/github.com/spf13/viper"]
+	path = src/github.com/spf13/viper
+	url = https://github.com/spf13/viper
+[submodule "src/github.com/urfave/cli"]
+	path = src/github.com/urfave/cli
+	url = https://github.com/urfave/cli
+[submodule "src/github.com/vivint/infectious"]
+	path = src/github.com/vivint/infectious
+	url = https://github.com/vivint/infectious
+[submodule "src/github.com/golang/protobuf"]
+	path = src/github.com/golang/protobuf
+	url = https://github.com/golang/protobuf
+[submodule "src/github.com/zeebo/admission"]
+	path = src/github.com/zeebo/admission
+	url = https://github.com/zeebo/admission
+[submodule "src/github.com/go-redis/redis"]
+	path = src/github.com/go-redis/redis
+	url = https://github.com/go-redis/redis
+[submodule "src/github.com/gogo/protobuf"]
+	path = src/github.com/gogo/protobuf
+	url = https://github.com/gogo/protobuf
+[submodule "src/github.com/boltdb/bolt"]
+	path = src/github.com/boltdb/bolt
+	url = https://github.com/boltdb/bolt
+[submodule "src/github.com/julienschmidt/httprouter"]
+	path = src/github.com/julienschmidt/httprouter
+	url = https://github.com/julienschmidt/httprouter
+[submodule "src/github.com/zeebo/errs"]
+	path = src/github.com/zeebo/errs
+	url = https://github.com/zeebo/errs
+[submodule "src/github.com/tyler-smith/go-bip39"]
+	path = src/github.com/tyler-smith/go-bip39
+	url = https://github.com/tyler-smith/go-bip39
+[submodule "src/github.com/zeebo/incenc"]
+	path = src/github.com/zeebo/incenc
+	url = https://github.com/zeebo/incenc
+[submodule "src/github.com/zeebo/float16"]
+	path = src/github.com/zeebo/float16
+	url = https://github.com/zeebo/float16
+[submodule "src/github.com/spacemonkeygo/errors"]
+	path = src/github.com/spacemonkeygo/errors
+	url = https://github.com/spacemonkeygo/errors
+[submodule "src/github.com/spf13/pflag"]
+	path = src/github.com/spf13/pflag
+	url = https://github.com/spf13/pflag
+[submodule "src/github.com/spf13/cast"]
+	path = src/github.com/spf13/cast
+	url = https://github.com/spf13/cast
+[submodule "src/github.com/spf13/afero"]
+	path = src/github.com/spf13/afero
+	url = https://github.com/spf13/afero
+[submodule "src/github.com/pelletier/go-toml"]
+	path = src/github.com/pelletier/go-toml
+	url = https://github.com/pelletier/go-toml
+[submodule "src/github.com/mitchellh/mapstructure"]
+	path = src/github.com/mitchellh/mapstructure
+	url = https://github.com/mitchellh/mapstructure
+[submodule "src/github.com/hashicorp/hcl"]
+	path = src/github.com/hashicorp/hcl
+	url = https://github.com/hashicorp/hcl
+[submodule "src/github.com/magiconair/properties"]
+	path = src/github.com/magiconair/properties
+	url = https://github.com/magiconair/properties
+[submodule "src/github.com/fsnotify/fsnotify"]
+	path = src/github.com/fsnotify/fsnotify
+	url = https://github.com/fsnotify/fsnotify
+[submodule "src/github.com/spf13/jwalterweatherman"]
+	path = src/github.com/spf13/jwalterweatherman
+	url = https://github.com/spf13/jwalterweatherman
+[submodule "src/golang.org/x/crypto"]
+	path = src/golang.org/x/crypto
+	url = https://github.com/golang/crypto
+[submodule "src/golang.org/x/sys"]
+	path = src/golang.org/x/sys
+	url = https://github.com/golang/sys
+[submodule "src/golang.org/x/text"]
+	path = src/golang.org/x/text
+	url = https://github.com/golang/text
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net
+[submodule "src/gopkg.in/spacemonkeygo/monkit.v2"]
+	path = src/gopkg.in/spacemonkeygo/monkit.v2
+	url = https://github.com/spacemonkeygo/monkit
+[submodule "src/go.uber.org/zap"]
+	path = src/go.uber.org/zap
+	url = https://github.com/uber-go/zap
+[submodule "src/go.uber.org/atomic"]
+	path = src/go.uber.org/atomic
+	url = https://github.com/uber-go/atomic
+[submodule "src/go.uber.org/multierr"]
+	path = src/go.uber.org/multierr
+	url = https://github.com/uber-go/multierr
+[submodule "src/github.com/spacemonkeygo/monotime"]
+	path = src/github.com/spacemonkeygo/monotime
+	url = https://github.com/spacemonkeygo/monotime
+[submodule "src/gopkg.in/yaml.v2"]
+	path = src/gopkg.in/yaml.v2
+	url = https://github.com/go-yaml/yaml
+[submodule "src/google.golang.org/grpc"]
+	path = src/google.golang.org/grpc
+	url = https://github.com/grpc/grpc-go
+[submodule "src/google.golang.org/genproto"]
+	path = src/google.golang.org/genproto
+	url = https://github.com/google/go-genproto
+[submodule "src/github.com/stretchr/testify"]
+	path = src/github.com/stretchr/testify
+	url = https://github.com/stretchr/testify
