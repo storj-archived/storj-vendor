@@ -106,3 +106,9 @@
 [submodule "src/github.com/stretchr/testify"]
 	path = src/github.com/stretchr/testify
 	url = https://github.com/stretchr/testify
+[submodule "src/github.com/minio/minio"]
+	path = src/github.com/minio/minio
+	url = https://github.com/minio/minio
+[submodule "src/github.com/minio/cli"]
+	path = src/github.com/minio/cli
+	url = https://github.com/minio/cli
