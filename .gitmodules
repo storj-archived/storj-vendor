@@ -112,3 +112,6 @@
 [submodule "src/github.com/minio/cli"]
 	path = src/github.com/minio/cli
 	url = https://github.com/minio/cli
+[submodule "src/github.com/google/uuid"]
+	path = src/github.com/google/uuid
+	url = https://github.com/google/uuid.git
