@@ -115,3 +115,6 @@
 [submodule "src/github.com/google/uuid"]
 	path = src/github.com/google/uuid
 	url = https://github.com/google/uuid.git
+[submodule "src/github.com/aleitner/FilePiece"]
+	path = src/github.com/aleitner/FilePiece
+	url = https://github.com/aleitner/FilePiece
