@@ -118,3 +118,6 @@
 [submodule "src/github.com/aleitner/FilePiece"]
 	path = src/github.com/aleitner/FilePiece
 	url = https://github.com/aleitner/FilePiece
+[submodule "src/github.com/mattn/go-sqlite3"]
+	path = src/github.com/mattn/go-sqlite3
+	url = https://github.com/mattn/go-sqlite3
