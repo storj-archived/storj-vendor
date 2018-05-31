@@ -124,3 +124,6 @@
 [submodule "src/github.com/spacemonkeygo/flagfile"]
 	path = src/github.com/spacemonkeygo/flagfile
 	url = https://github.com/spacemonkeygo/flagfile
+[submodule "src/github.com/coyle/kademlia"]
+	path = src/github.com/coyle/kademlia
+	url = https://github.com/coyle/kademlia.git
