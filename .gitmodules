@@ -127,3 +127,12 @@
 [submodule "src/github.com/coyle/kademlia"]
 	path = src/github.com/coyle/kademlia
 	url = https://github.com/coyle/kademlia.git
+[submodule "src/github.com/anacrolix/utp"]
+	path = src/github.com/anacrolix/utp
+	url = https://github.com/anacrolix/utp.git
+[submodule "github.com/ccding/go-stun"]
+	path = src/github.com/ccding/go-stun
+	url = https://github.com/ccding/go-stun.git
+[submodule "src/github.com/jbenet/go-base58"]
+	path = src/github.com/jbenet/go-base58
+	url = https://github.com/jbenet/go-base58.git
