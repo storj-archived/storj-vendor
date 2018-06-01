@@ -142,3 +142,6 @@
 [submodule "src/github.com/anacrolix/sync"]
 	path = src/github.com/anacrolix/sync
 	url = https://github.com/anacrolix/sync.git
+[submodule "src/github.com/huandu/xstrings"]
+	path = src/github.com/huandu/xstrings
+	url = https://github.com/huandu/xstrings.git
