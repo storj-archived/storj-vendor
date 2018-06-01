@@ -136,3 +136,9 @@
 [submodule "src/github.com/jbenet/go-base58"]
 	path = src/github.com/jbenet/go-base58
 	url = https://github.com/jbenet/go-base58.git
+[submodule "src/github.com/anacrolix/missinggo"]
+	path = src/github.com/anacrolix/missinggo
+	url = https://github.com/anacrolix/missinggo.git
+[submodule "src/github.com/anacrolix/sync"]
+	path = src/github.com/anacrolix/sync
+	url = https://github.com/anacrolix/sync.git
