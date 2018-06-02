@@ -145,3 +145,6 @@
 [submodule "src/github.com/huandu/xstrings"]
 	path = src/github.com/huandu/xstrings
 	url = https://github.com/huandu/xstrings.git
+[submodule "src/github.com/golang/mock"]
+	path = src/github.com/golang/mock
+	url = https://github.com/golang/mock
