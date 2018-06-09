@@ -127,3 +127,37 @@
 [submodule "src/github.com/mr-tron/base58"]
 	path = src/github.com/mr-tron/base58
 	url = https://github.com/mr-tron/base58
+[submodule "src/github.com/coyle/kademlia"]
+       path = src/github.com/coyle/kademlia
+       url = https://github.com/coyle/kademlia.git
+[submodule "src/github.com/anacrolix/utp"]
+       path = src/github.com/anacrolix/utp
+       url = https://github.com/anacrolix/utp.git
+[submodule "github.com/ccding/go-stun"]
+       path = src/github.com/ccding/go-stun
+       url = https://github.com/ccding/go-stun.git
+[submodule "src/github.com/jbenet/go-base58"]
+       path = src/github.com/jbenet/go-base58
+       url = https://github.com/jbenet/go-base58.git
+[submodule "src/github.com/anacrolix/missinggo"]
+       path = src/github.com/anacrolix/missinggo
+       url = https://github.com/anacrolix/missinggo.git
+[submodule "src/github.com/anacrolix/sync"]
+       path = src/github.com/anacrolix/sync
+       url = https://github.com/anacrolix/sync.git
+[submodule "src/github.com/huandu/xstrings"]
+       path = src/github.com/huandu/xstrings
+       url = https://github.com/huandu/xstrings.git
+[submodule "src/github.com/golang/mock"]
+       path = src/github.com/golang/mock
+       url = https://github.com/golang/mock
+[submodule "src/github.com/jtolds/monkit-hw"]
+       path = src/github.com/jtolds/monkit-hw
+       url = https://github.com/jtolds/monkit-hw
+[submodule "src/github.com/cloudfoundry/gosigar"]
+       path = src/github.com/cloudfoundry/gosigar
+       url = https://github.com/cloudfoundry/gosigar
+[submodule "src/github.com/spacemonkeygo/spacelog"]
+       path = src/github.com/spacemonkeygo/spacelog
+       url = https://github.com/spacemonkeygo/spacelog
+
