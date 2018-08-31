@@ -180,3 +180,6 @@
 [submodule "src/github.com/alicebob/gopher-json"]
 	path = src/github.com/alicebob/gopher-json
 	url = https://github.com/alicebob/gopher-json
+[submodule "src/github.com/gomodule/redigo"]
+	path = src/github.com/gomodule/redigo
+	url = https://github.com/gomodule/redigo
