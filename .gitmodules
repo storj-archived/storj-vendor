@@ -170,3 +170,13 @@
 [submodule "src/github.com/gtank/cryptopasta"]
 	path = src/github.com/gtank/cryptopasta
 	url = https://github.com/gtank/cryptopasta
+
+[submodule "src/github.com/alicebob/miniredis"]
+	path = src/github.com/alicebob/miniredis
+	url = https://github.com/alicebob/miniredis
+[submodule "src/github.com/yuin/gopher-lua"]
+	path = src/github.com/yuin/gopher-lua
+	url = https://github.com/yuin/gopher-lua
+[submodule "src/github.com/alicebob/gopher-json"]
+	path = src/github.com/alicebob/gopher-json
+	url = https://github.com/alicebob/gopher-json
