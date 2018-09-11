@@ -186,3 +186,12 @@
 [submodule "src/github.com/google/go-cmp"]
 	path = src/github.com/google/go-cmp
 	url = https://github.com/google/go-cmp
+[submodule "src/github.com/loov/hrtime"]
+	path = src/github.com/loov/hrtime
+	url = https://github.com/loov/hrtime
+[submodule "src/github.com/loov/plot"]
+	path = src/github.com/loov/plot
+	url = https://github.com/loov/plot
+[submodule "src/github.com/minio/minio-go"]
+	path = src/github.com/minio/minio-go
+	url = https://github.com/minio/minio-go
