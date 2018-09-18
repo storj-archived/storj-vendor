@@ -201,3 +201,6 @@
 [submodule "src/github.com/cheggaaa/pb"]
 	path = src/github.com/cheggaaa/pb
 	url = https://github.com/cheggaaa/pb
+[submodule "src/github.com/mattn/go-runewidth"]
+	path = src/github.com/mattn/go-runewidth
+	url = https://github.com/mattn/go-runewidth
