@@ -204,3 +204,6 @@
 [submodule "src/github.com/mattn/go-runewidth"]
 	path = src/github.com/mattn/go-runewidth
 	url = https://github.com/mattn/go-runewidth
+[submodule "src/github.com/shirou/gopsutil"]
+	path = src/github.com/shirou/gopsutil
+	url = https://github.com/shirou/gopsutil
