@@ -207,3 +207,6 @@
 [submodule "src/github.com/shirou/gopsutil"]
 	path = src/github.com/shirou/gopsutil
 	url = https://github.com/shirou/gopsutil
+[submodule "src/github.com/grpc-ecosystem/go-grpc-middleware"]
+	path = src/github.com/grpc-ecosystem/go-grpc-middleware
+	url = https://github.com/grpc-ecosystem/go-grpc-middleware
