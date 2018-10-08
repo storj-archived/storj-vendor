@@ -210,3 +210,6 @@
 [submodule "src/github.com/grpc-ecosystem/go-grpc-middleware"]
 	path = src/github.com/grpc-ecosystem/go-grpc-middleware
 	url = https://github.com/grpc-ecosystem/go-grpc-middleware
+[submodule "src/github.com/lib/pq"]
+	path = src/github.com/lib/pq
+	url = https://github.com/lib/pq
