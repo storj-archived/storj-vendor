@@ -217,5 +217,5 @@
 	path = src/github.com/go-bindata/go-bindata
 	url = https://github.com/go-bindata/go-bindata
 [submodule "src/github.com/golang-migrate/migrate"]
-	path = src/github.com/golang-migrate/migrate
+	path = src/github.com/golang-migrate/migrate/v3
 	url = https://github.com/golang-migrate/migrate
