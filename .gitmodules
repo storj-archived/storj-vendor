@@ -213,3 +213,6 @@
 [submodule "src/github.com/lib/pq"]
 	path = src/github.com/lib/pq
 	url = https://github.com/lib/pq
+[submodule "src/github.com/go-bindata/go-bindata"]
+	path = src/github.com/go-bindata/go-bindata
+	url = https://github.com/go-bindata/go-bindata
