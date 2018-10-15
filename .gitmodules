@@ -219,3 +219,6 @@
 [submodule "src/github.com/golang-migrate/migrate"]
 	path = src/github.com/golang-migrate/migrate/v3
 	url = https://github.com/golang-migrate/migrate
+[submodule "src/go-fuse"]
+	path = src/go-fuse
+	url = https://github.com/hanwen/go-fuse
